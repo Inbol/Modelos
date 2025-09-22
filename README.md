@@ -14,7 +14,7 @@
 - **Archivo / versión**: `train.csv`  
 - **Dimensiones**: 1460 filas × 81 columnas  
 - **Periodo**: Tabular estático, sin fechas asociadas  
-- **Data dictionary**: disponible en [`x_data_dictionary.csv`](./data/x_data_dictionary.csv)
+- **Data dictionary**: disponible en [`x_data_dictionary.csv`](https://github.com/Inbol/Modelos/blob/main/x_data_dictionary.csv)
 
 ---
 
@@ -32,7 +32,7 @@ El pipeline de preparación incluye:
 ---
 
 ## 🧩 Snippet demostrativo reproducible
-Dentro del notebook [`Modelo_house_pricing.ipynb`](./notebooks/Modelo_house_pricing.ipynb):
+Dentro del notebook [`Modelo_house_pricing.ipynb`](https://colab.research.google.com/drive/1aQevN554fqF7oVN1AtNYYkK821wlpDr_?usp=sharing):
 
 - **Ruta**: `/notebooks/Modelo_house_pricing.ipynb`  
 - **Celda**: 3 – Función `make_preprocessor_tree()`
