@@ -22,20 +22,20 @@ Decisión: Utilizar React para el FrontEnd y Fast API para el backend.
 Alternativa considerada: -
 Motivo: Dominio del lenguaje y capacidad de enseñar relativamente rápida.
 
-## 05/09/2025   – Marisol Ramírez
+## 05/09/2025 – Marisol Ramírez
 Decisión: Creación de variables dummy para las coordenadas de las propiedades usando Google Maps
 par definir los vecindarios y asignar posibles puntos en un grid. 
 Alternativas consideradas: Coordenadas random, geolocalización con base en landmarks, quitar mapa de calor.
 Motivo: Visualización lo más cercana a la realidad.
 
-## 9/09/2025  – Equipo completo
+## 9/09/2025 – Equipo completo
 Decisión: Desarrollar modelos de predicción con menos variables para comprar su desempeño. 
 Alternativa considerada: Variables categóricas y/o numéricas para entrenar los modelos.
 Motivo: La experiencia del usuario puede disminuir si el cuestionario a contestar contiene 
 alrededor de 70 preguntas. Explorar las variables más significativas para las preguntas de 
 avalúo rápido. 
 
-## 12/09/2025  – Daniel Bernal
+## 12/09/2025 – Daniel Bernal
 Decisión: Realizar dos cuetsionarios para el avalúo, correspondiente al modelo con 15 variables
 de entrada y modelo completo.
 Alternativa considerada: -
@@ -52,12 +52,12 @@ Decisión: Implementar Random Forest como modelo principal en la aplicación.
 Alternativas consideradas: Modelo de Kaggle, regresión lineal.
 Motivo: Balance entre explicabilidad, desempeño y compatibilidad con la aplicación.
 
-## 19/09/2025   – Marisol Ramírez, Maximiliano Cruz 
+## 19/09/2025 – Marisol Ramírez, Maximiliano De La Cruz 
 Decisión: Incluir mapa de propiedades disponibles por vecindario en la página web.
 Alternativas consideradas: Asociación por precio, sin mapa
 Motivo: Experiencia de usuario. 
 
-## 19/09/2025   – Equipo completo
+## 19/09/2025 – Equipo completo
 Decisión: Mantener la sección de informes trimestrales en una versión beta.
 Alternativas consideradas: quitar la opción del modelo de negocios.
 Motivo: Tiempo. 
