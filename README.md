@@ -15,6 +15,7 @@
 - **Dimensiones**: 1460 filas × 81 columnas  
 - **Periodo**: Tabular estático, sin fechas asociadas  
 - **Data dictionary**: disponible en [`x_data_dictionary.csv`](https://github.com/Inbol/Modelos/blob/main/x_data_dictionary.csv)
+- **Notebook**: generado utiizando el notebook [`EDAHousesPrices.ipynb`](https://colab.research.google.com/drive/1Byt3mMLdjIAmZ__GvRkc380zmx7Qjglf)
 
 ---
 
